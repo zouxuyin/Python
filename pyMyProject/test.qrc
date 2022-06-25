@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/登录.png</file>
+    <file>icon/关闭.png</file>
+    <file>icon/未登录.png</file>
+    <file>icon/正确.png</file>
+    <file>icon/放大.png</file>
+    <file>icon/注册.png</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>img/22.png</file>
+  </qresource>
+</RCC>
