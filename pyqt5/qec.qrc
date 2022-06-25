@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="bj">
+    <file>image/背景颜色.jpg</file>
+    <file>image/背景.jpg</file>
+  </qresource>
+</RCC>

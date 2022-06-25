@@ -1,0 +1,3 @@
+import matplotlib.pyplot as plt
+import inspect
+print(inspect.getfile(plt))
